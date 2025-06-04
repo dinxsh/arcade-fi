@@ -2,15 +2,13 @@
 
 ## Featuring
 
-- **Play Classic Arcade Games:** Enjoy a curated collection of retro favorites in your browser.
-- **Compete & Earn Rewards:** Battle friends or climb global leaderboards to win achievements and prizes.
-- **AI Game Creation:** Use AI-driven tools to design, remix, or generate your own arcade games—no coding required!
-- **Cloud Saves:** Pick up your games on any device, anytime.
-- **Personalized Recommendations:** Discover new favorites with smart AI suggestions.
-- **Customizable Experience:** Change themes, soundtracks, and more for your perfect arcade vibe.
-- **Community & Tournaments:** Join events, chat, and share your creations with fellow gamers.
-
----
+- Enjoy a curated collection of retro favorites in your browser.
+- Battle friends or climb global leaderboards to win achievements and prizes.
+- Use AI-driven tools to design, remix, or generate your own arcade games—no coding required!
+- Pick up your games on any device, anytime.
+- Discover new favorites with smart AI suggestions.
+- Change themes, soundtracks, and more for your perfect arcade vibe.
+- Join events, chat, and share your creations with fellow gamers.
 
 ## Setup
 
